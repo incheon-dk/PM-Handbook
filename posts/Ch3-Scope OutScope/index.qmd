@@ -1,0 +1,56 @@
+---
+title: "Section 3: Defining and Protecting Project Scope"
+author: "DK"
+date: "2025-10-30"
+categories: [scope]
+---
+
+During my years in project management, I once worked with a program manager who was a former Marine. He and I often discussed business operations in Asia—especially Korea—and while some of our conversations couldn’t be repeated, one thing always stood out: his absolute clarity on scope. He had an uncanny ability to determine, without hesitation, whether an activity was in scope or out of scope. I never quite knew how he did it, but he always knew exactly what was included in the contract and what wasn’t—and he wouldn’t budge an inch beyond it.
+
+That discipline became one of the most valuable lessons I carried forward: in every project, knowing where the boundaries lie—and holding them—is what protects both progress and integrity.
+
+![](images/ChatGPT%20Image%20Oct%2024,%202025,%2003_45_27%20PM.png)
+
+A project’s scope is its foundation—the clear boundary between what will be delivered and what will not. In regulated industries, scope definition is not simply a planning exercise; it is a compliance and quality requirement. A well-defined scope ensures that project objectives align with customer needs, business strategy, and regulatory expectations.
+
+#### **1. The Project Charter – From Voice of Customer to Design Input**
+
+Every successful project begins with a strong **project charter**. The charter translates the **Voice of the Customer (VoC)**—the expressed and unspoken needs of users, clinicians, or stakeholders—into **Design Inputs** that are measurable, testable, and traceable.
+
+For example, if a customer expresses the need for “a more comfortable catheter,” this VoC statement becomes a **design input** such as:
+
+> “Catheter distal tip durometer shall not exceed 70 Shore A, verified through mechanical testing per ASTM D2240.”
+
+These inputs then drive **Design Outputs**, such as material selection, process parameters, and dimensional drawings—tangible evidence of how requirements are met.\
+
+FDA Design Control (21 CFR 820.30) requires that Design Inputs and Outputs be reviewed, verified, and validated to ensure the final product truly meets user needs.
+
+#### **2. What’s *In Scope* and *Out of Scope***
+
+A clear scope statement delineates the project’s deliverables and exclusions.\
+
+**In Scope** items define the intended work—product specifications, documentation, testing, and regulatory submissions.\
+
+**Out of Scope** items capture what the team will not do, preventing assumptions and future conflict.
+
+At Moxtek, for example, defining *in scope* for a new optical coating system included the qualification of the sputtering chamber and process recipe validation—but explicitly excluded facility HVAC upgrades, which were owned by Facilities Engineering. This clarity prevented misalignment and resource contention later.
+
+#### **3. Scope Creep – The Silent Project Killer**
+
+Scope creep occurs when new tasks or requirements are added without proper evaluation or approval. Even well-intentioned changes—“just a quick test” or “one more design tweak”—can derail budgets, schedules, and compliance timelines.
+
+To manage this:
+
+**Evaluate each change request** through formal design control and risk assessment.
+
+**Update the project plan** and communicate impacts to all stakeholders.
+
+**Revisit the charter**—if the change alters core objectives, a charter revision may be required.
+
+Disciplined change management transforms scope creep from a threat into a structured opportunity for improvement.
+
+#### **4. The Role of the Project Manager**
+
+The project manager acts as both **translator and guardian**—translating customer needs into actionable engineering tasks and guarding the boundaries of project scope. In medical device development, where product changes have regulatory consequences, this role carries both operational and ethical weight.
+
+A project that begins with a clear, VoC-based charter and disciplined scope control will not only deliver on time and within budget—it will deliver meaningfully, creating products that meet real human needs with precision and care.

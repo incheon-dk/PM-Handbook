@@ -1,0 +1,21 @@
+---
+title: "Device History Record and Device Master Record"
+author: "DK"
+date: "2025-11-02"
+categories: [documentation, DMR, DHF]
+---
+
+In regulated industries, every design decision, document, and test result carries weight. The **Design History File (DHF)** and **Device Master Record (DMR)** form the backbone of this accountability, serving not only as compliance artifacts but as the living memory of the project itself.
+
+The **DHF** captures the evolution of a medical device—from concept to commercialization—demonstrating that the design process followed the approved plan and met design control requirements under **21 CFR 820.30** and **ISO 13485**. It tells the story of *how* the product was designed, what choices were made, and how those choices were verified and validated.
+
+During my time managing projects that transferred catheter manufacturing lines and cleanroom upgrades across Asia and North America, maintaining the DHF wasn’t just a regulatory requirement—it was a leadership tool. When questions arose about why a material or process had been selected, or why a test method had been retired, the DHF provided both the evidence and the rationale. It anchored decision-making to documented facts, protecting both the team and the company.
+
+The **DMR**, by contrast, defines *what* is needed to make the device. It is the operational blueprint—a collection of specifications, drawings, formulations, assembly procedures, and inspection criteria that ensure every product built meets its intended design. In essence, the DMR turns design intent into reproducible manufacturing reality.
+
+Together, the DHF and DMR represent the full lifecycle of accountability:
+
+**The DHF** shows *how we got there*.
+**The DMR** ensures *we can get there again, exactly the same way*.
+
+For project managers, maintaining these documents isn’t administrative overhead—it’s core to delivering safe, effective products that withstand both regulatory scrutiny and the test of time. Each update, each review, each signature is part of a traceable lineage that proves the project team honored its purpose, process, and product integrity.
